@@ -73,3 +73,6 @@ android {
         compose = true
     }
 }
+dependencies {
+    implementation("androidx.media3:media3-common:1.0.0-alpha03")
+}
